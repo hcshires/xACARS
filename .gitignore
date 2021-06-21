@@ -1,8 +1,11 @@
-run.bat
 __pycache__/
+.github/*
 .vscode/*
-*.ini
-*.txt
 build/*
-dist
-*.spec
+.vs/*
+dist/*
+
+airlines.ini
+run.bat
+main.spec
+build.bat
